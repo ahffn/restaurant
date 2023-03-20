@@ -150,7 +150,8 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 고기 빵 제작 및 굽기 기능
 플레이어 이동 구현
 
-<video src="2023-03-20.mp4" type="application/mp4" />
+<img width=""80%"" src="[{이미지 경로}](https://user-images.githubusercontent.com/114118934/226271132-87be1280-6d60-4aaf-a3a3-685935506d26.mp4)"/>
+
 
   
 # 2주차 :
