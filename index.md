@@ -145,11 +145,8 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 고기 빵 제작 및 굽기 기능
 플레이어 이동 구현
 
-<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
-  <source src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.ogv" type="application/ogg" />
-<source src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.mp4" type="video/mp4" />
-<img src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.jpg">
-</video>
+<video src="2023-03-20 포트폴리오.mp4" type="application/ogg" />
+
   
 # 2주차 :
 # 3주차 :
