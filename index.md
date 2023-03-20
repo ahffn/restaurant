@@ -141,10 +141,14 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 
 ## [프로토타입 주차별 구현내용]
 
-# 1주차 : 고기 빵 제작 및 굽기 기능
+# 1주차 : 
+고기 빵 제작 및 굽기 기능
 플레이어 이동 구현
 
-<video src="./video/2023-03-20 포트폴리오.mp4">
+<video autoplay loop style="width:100%; height: auto; position:absolute; z-index: -1;">
+<source src="./video/2023-03-20 포트폴리오.mp4" type="video/mp4" />
+<img src="http://syddev.com/jquery.videoBG/assets/tunnel_animation.jpg">
+</video>
   
 # 2주차 :
 # 3주차 :
