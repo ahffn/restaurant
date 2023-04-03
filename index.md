@@ -163,6 +163,7 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 <img width="80%" src="https://user-images.githubusercontent.com/114118934/226271132-87be1280-6d60-4aaf-a3a3-685935506d26.mp4"/>
 
 # 3주차 :
+양배추와 토마토 추가 (50%)
 # 4주차 :
 # 5주차 : 
 # 6주차 : 
