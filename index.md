@@ -160,6 +160,7 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 익은 고기와 빵 합치면 햄버거 제작 (100%)
 손님 및 주문 시스템 구현 (50%)
 고기 굽는 타이머 제작 (100%)
+
 <img width="80%" src="https://user-images.githubusercontent.com/114118934/229449546-00dd1e8f-ace3-4016-b398-6f5e205d2ba7.mp4"/>
 
 # 3주차 :
