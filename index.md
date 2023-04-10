@@ -172,6 +172,9 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 에셋 넣기 (50%)
 주문 완료시 돈 들어옴(100%)
 
+<img width="80%" src="https://user-images.githubusercontent.com/114118934/230856023-28f9fbd3-2a2e-49d0-ac32-b951731d86dc.mp4"/>
+
+
 # 5주차 : 
 # 6주차 : 
       
