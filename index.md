@@ -175,6 +175,9 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 <img width="80%" src="https://user-images.githubusercontent.com/114118934/230856023-28f9fbd3-2a2e-49d0-ac32-b951731d86dc.mp4"/>
 
 
-# 5주차 : 
+# 5주차 :
+토마토 만들기 완성
+햄버거 만들기 완성
+주문시스템 완성(손님에게 음ㄹ료수 내기)
 # 6주차 : 
       
