@@ -180,4 +180,5 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 햄버거 만들기 완성
 주문시스템 완성(손님에게 음료수 내기)
 # 6주차 : 
+<img width="80%" src="https://user-images.githubusercontent.com/114118934/235355974-79f1b5eb-9c01-4157-930b-5966e6a27f5d.mp4"/>
       
