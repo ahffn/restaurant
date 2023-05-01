@@ -192,3 +192,8 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 
 https://user-images.githubusercontent.com/114118934/235357119-4294ea74-0d22-4c28-8836-66ecb7bd65e3.mp4
       
+      
+      7주차
+      캐릭터 완성
+      고기 뒤집기 애니매이션 추가
+      자르기 애니매이션 추가
