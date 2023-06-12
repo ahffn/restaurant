@@ -178,6 +178,8 @@ unity 기반으로 pc플랫폼으로 개발할 예정입니다.
 햄버거 만들기 완성
 주문시스템 완성(손님에게 음료수 내기)
 
+https://github.com/ahffn/restaurant/assets/114118934/f5e16e84-3a28-45ae-ada9-15b44df0a922
+
 
 
 # 6주차 : 
@@ -205,16 +207,28 @@ https://github.com/ahffn/restaurant/assets/114118934/df467dec-6ca9-48a9-b9b6-12d
 주문 시스템 보강
 치즈 피자 만들기
 
+
+https://github.com/ahffn/restaurant/assets/114118934/f4a7cc54-8ffc-4ebd-b117-dca5d3b540a1
+
+
 # 10주차 :
 감자 튀김, 치킨 제작
+
+https://github.com/ahffn/restaurant/assets/114118934/1b7de754-00b0-4c60-88dd-90347ebe7f85
+
 
 # 11주차 :
 주문 이미지 추가
 
+![11주차](https://github.com/ahffn/restaurant/assets/114118934/85da8727-1498-4480-a6c2-4e1d7c6dbddd)
+
 # 12주차 :
 체력 레벨 최고기록 시스템 제작
+
+![12주차](https://github.com/ahffn/restaurant/assets/114118934/aee46ddc-75b3-430b-b0be-ae6c1197156b)
 
 # 13주차 :
 튜토리얼 시스템 제작
       
-      
+![13주차](https://github.com/ahffn/restaurant/assets/114118934/7a112aa4-4abc-4244-af9d-51d9a4030c34)
+    
