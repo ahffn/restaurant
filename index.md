@@ -190,10 +190,16 @@ https://user-images.githubusercontent.com/114118934/235357119-4294ea74-0d22-4c28
 # 7주차 : 
 기본 맵 완성
 캐릭터 디자인
+<img src="./img/7주차.jpg">
+
 
 # 8주차 : 
 캐릭터 완성
 자르기 애니매이션 추가
+
+https://github.com/ahffn/restaurant/assets/114118934/df467dec-6ca9-48a9-b9b6-12df4fe91788
+
+
 
 # 9주차 : 
 주문 시스템 보강
